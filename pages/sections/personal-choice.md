@@ -1,12 +1,17 @@
+---
+glow: full
+---
+
 # Fun Fact about me
 
-<!-- Any hobby, personal attribute, life experience, etc. that you think
-would be valuable to highlight in a career portfolio. Make sure to
-include a description of the activity, the skills you have gained
-from it that apply to engineering, and a reflection on your
-learning.
- -->
+<v-clicks depths="1">
 
- I love to go hiking on the trail during summer, One fun fact about me I know can type over 105 words per minute, with a 98% success rate without any error. I also know over 500 fun facts about human and animals.
+- **Speed Typing**: I can type over 105 words per minute with 98% accuracy. This enhances my efficiency in documentation and communication.
 
- I also can type with my close and just listening to the audio of a
+- **Hiking**: I enjoy hiking during the summer, which teaches me endurance, problem-solving, and appreciation for nature.
+
+- **Trivia Aficionado**: I know over 500 fun facts about humans and animals, showcasing my curiosity and ability to retain diverse information.
+
+- **Gamer & Streamer**: In my free time, I stream and play video games, developing my communication skills, leadership, and perseverance in fast-paced environments.
+
+</v-clicks>

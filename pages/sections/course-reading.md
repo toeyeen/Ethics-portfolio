@@ -6,19 +6,24 @@ layoutClass: gap-4
 
 <!-- Recommended Reflection -->
 
-<img src="../../static/greenwashed_dollar.format-webp.width-2880_1kGtrHSiS7DuZcUB.webp" alt="green-washing" />
+<img src="/indigenous.png" alt="green-washing" />
 
-[Image by Futerra](https://www.wearefuterra.com/blog/what-is-greenhushing-and-is-it-worse-than-greenwashing)
+[Image by Canadian Encyclopedia](https://www.thecanadianencyclopedia.ca/en/timeline/first-nations)
 
 ::right::
 
-- An investigation was done on IKEA's sourcing practices and this lead to a troubling issue between the company's sustainability claims and its actual practices, one regarding illegal logging in protected Siberian forests.
-- IKEA despite marketing itself as a leader in sustainable furniture, having been linked to sourcing it timber linked to significant environmental violations, including logging in areas critical for climate regulation.
-- This discrepancy between IKEA's perceived public image of sustainability and its actual practices is an example of greenwashing,
-- Greenwashing was taught during lecture 7 on October 12 .
+<v-clicks depths="1">
+
+- The concept of Two-Eyed Seeing challenges the traditional Western approach to engineering by emphasizing the importance of integrating Indigenous knowledge and perspectives.
+- I found the idea of "co-learning" particularly interesting and applicable to engineering practice. It suggests that engineers should not just consult with Indigenous communities, but actively engage in mutual learning processes.
+- One aspect I initially struggled with was the integration of spiritual concepts into what I've traditionally viewed as a purely technical field.
+- upon reflection, I realized that acknowledging these perspectives could lead to more comprehensive risk assessments and ethical decision-making in engineering projects.
+- Learnt on Indigenous Ethics
+
+</v-clicks>
 
 <div class="flex justify-right">
-<a class="text-right" link="https://earth.org/ikea-implicated-in-logging-protected-siberian-forests/">
-Source
+<a v-click="5" class="text-right text-[8px]  mr-1" link="https://www.thecanadianencyclopedia.ca/en/timeline/first-nations">
+Source - <small class="text-[8px]"> Two-Eyed Seeing </small>
 </a>
 </div>

@@ -1,20 +1,26 @@
 ---
-theme: seriph
-background: https://cover.sli.dev
+layout: fact
+highlighter: shiki
+css: unocss
+colorSchema: dark
+# transition: fade-out
+mdc: true
+glowSeed: 4
+author: Oluwatoyin Jolaoso
+title: Cover Page
+titleTemplate: '%s - Portfolio'
+download: true
+exportFilename: 'Engineering Ethics and Law - Portfolio'
 # title: Cover Page
 info: |
   ## ENGG 687 Ethics and Law Portfolio presentation 
   Ethics Presentation slides by Oluwatoyin Jolaoso.
-class: text-center text-red-500
 drawings:
   persist: true
-transition: slide-left
-mdc: true
-overviewSnapshots: true
 ---
 # Ethics Portfolio
 
-Ethics Presentation slides by Oluwatoyin Jolaoso.
+Ethics Presentation slides by <span text-3xl font-hand v-mark.circle.yellow>  Oluwatoyin Jolaoso. </span>
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -35,7 +41,6 @@ src: ./pages/sections/introduction.md
 ---
 
 <!-- Empty Introduction -->
-
 ---
 src: ./pages/sections/ethics-responsibility.md
 
@@ -90,9 +95,21 @@ src: ./pages/sections/reflection.md
 ---
 
 <!-- Reflection reading here is ignored,  2 Pages-->
+---
+src: ./pages/sections/reflection-2.md
+
+---
+
+<!-- Reflection reading here is ignored,  2 Pages-->
 
 ---
 src: ./pages/sections/personal-choice.md
 
 ---
+<!-- Nothing here -->
+---
+src: ./pages/sections/reference.md
 <!-- One More page for anything, You rchoice it could be interesting things about yourself. She gave an example in class that if xoul be I can solve rubiks cube in 3 mins for my case I can claim i can type 105 wpm since there is no way to confirm what I have said that lie can fly -->
+
+<!-- Reflection reading here is ignored,  2 Pages-->
+---

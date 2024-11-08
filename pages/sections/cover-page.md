@@ -1,6 +1,6 @@
 # Ethics Portolio
 
-Ethics Presentation slides by Oluwatoyin Jolaoso.
+Ethics Presentation slides by <span  class="font-hand"> Oluwatoyin Jolaoso </span>.
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
