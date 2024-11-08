@@ -29,6 +29,3 @@ transition: fade-out
 <small class=" text-[8px]">(Internet - Grandcity)</small>
   </a>
 </div>
-
- <!-- where both company employees failed in APEGA rule 3. -->
-<!-- which states that engineers shall be honest and fair in their professional activities. -->

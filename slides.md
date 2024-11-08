@@ -7,7 +7,7 @@ colorSchema: dark
 mdc: true
 glowSeed: 4
 author: Oluwatoyin Jolaoso
-title: Cover Page
+title: Engineering Ethics
 titleTemplate: '%s - Portfolio'
 download: true
 exportFilename: 'Engineering Ethics and Law - Portfolio'
@@ -22,11 +22,11 @@ drawings:
 
 Ethics Presentation slides by <span text-3xl font-hand v-mark.circle.yellow>  Oluwatoyin Jolaoso. </span>
 
-<div class="pt-12">
+<!-- <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
     Press Space for next page <carbon:arrow-right class="inline"/>
   </span>
-</div>
+</div> -->
 
 ---
 src: ./pages/sections/table-of-content.md
