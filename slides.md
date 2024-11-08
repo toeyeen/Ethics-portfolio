@@ -9,8 +9,7 @@ glowSeed: 4
 author: Oluwatoyin Jolaoso
 title: Engineering Ethics
 titleTemplate: '%s - Portfolio'
-download: true
-exportFilename: 'Engineering Ethics and Law - Portfolio'
+# exportFilename: 'Engineering Ethics and Law - Portfolio'
 # title: Cover Page
 info: |
   ## ENGG 687 Ethics and Law Portfolio presentation 

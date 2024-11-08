@@ -38,8 +38,7 @@ mindmap
       Professional conduct
 ```
 
-  <a class="text-right" link="https://mermaid.org">Source
-<small class=" text-[8px]">(MindMap - Design by me)</small>
+  <a class="text-right" link="https://mermaid.org">MindMap - Design by me
   </a>
 
 <!-- - Taking ENGG 687 has significantly broadened my understanding of ethics, particularly in the context of engineering. -->
