@@ -1,9 +1,5 @@
 # References
 
-## Design for Safety
-
-- Zemel, M. (n.d.). [The Ford/Firestone Case](https://www.stern.nyu.edu/om/faculty/zemel/ford_firestone.pdf). New York University Stern School of Business.
-
 ## Corporate Ethics and Environmental Responsibility
 
 - Earth.org. (2021). [IKEA Implicated in Logging Protected Siberian Forests](https://earth.org/ikea-implicated-in-logging-protected-siberian-forests/). Earth.org.

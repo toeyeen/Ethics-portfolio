@@ -7,11 +7,11 @@ layoutClass: grid-cols-[2fr_1fr] gap-x-2
 
 <div>
 <img src="https://www.hmi.edu/wp-content/uploads/2024/01/1.png" class="mt-20" alt="uncertainty-image"  />
-<div class="flex justify-left">
+<!-- <div class="flex justify-left">
   <a class="text-right" link="https://www.hmi.edu/risk-and-the-reward-navigating-uncertainty-to-pursue-a-new-career/">Source
 <small class=" text-[8px]">(Internet Image - HMI Edu)</small>
   </a>
-</div>
+</div> -->
 </div>
 
 [Image by HMI Edu](https://www.hmi.edu/risk-and-the-reward-navigating-uncertainty-to-pursue-a-new-career/)

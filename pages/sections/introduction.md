@@ -29,12 +29,10 @@ challenges? What have been your biggest successes? -->
 <h1 font-fast>Oluwatoyin Jolaoso</h1>
 <div class="leading-10 opacity-80">
 Graduate Student at <span> University of Calgary </span><br>
-Creator of VueUse, Slidev, Vitest, UnoCSS.<br>
-Working at NuxtLabs.<br>
 </div>
 <div  my-10 w-min flex="~ gap-1" items-center justify-center>
   <div i-ri-user-3-line op50 ma text-xl />
-  <div><a href="https://toyinjolaoso.me" target="_blank" class="border-none! font-300">ToyinJolaoso.dev</a></div>
+  <div><a href="https://toyinjolaoso.vercel.app/" target="_blank" class="border-none! font-300">ToyinJolaoso.dev</a></div>
   <div i-ri-github-line op50 ma text-xl ml4/>
   <div><a href="https://github.com/toeyeen" target="_blank" class="border-none! font-300">Toyin</a></div>
   <div i-ri-mastodon-line op50 ma text-xl ml4 />

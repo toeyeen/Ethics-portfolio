@@ -26,8 +26,8 @@ layoutClass: gap-4
 
 </v-clicks >
 
-<div class="flex justify-left">
-  <a v-click="5" class="text-right text-[8px] mr-1" href="https://www.forbes.com/sites/kashmirhill/2014/06/28/facebook-manipulated-689003-users-emotions-for-science/" title="consent icons">Internet - </a>
+<div v-click="5" class="flex justify-left">
+  <a  class="text-right text-[8px] mr-1" href="https://www.forbes.com/sites/kashmirhill/2014/06/28/facebook-manipulated-689003-users-emotions-for-science/" title="consent icons">Internet - </a>
       <small class="text-[8px]"> Facebook Manipulated 689,003 Users</small>
 
 </div>
